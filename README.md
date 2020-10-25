@@ -9,16 +9,19 @@ reference
 
 **How to use Custom Bitmap Font - Pixi.js - HTML5 Game Devs Forum**  
 [https://www.html5gamedevs.com/topic/46367-how-to-use-custom-bitmap-font/](https://www.html5gamedevs.com/topic/46367-how-to-use-custom-bitmap-font/)  
-Use this code.
+Use this code.  
 
 **ShoeBox**  
 [http://renderhjs.net/shoebox/](http://renderhjs.net/shoebox/)  
+Make font asset(.png and .xml=.fnt).  
 
 **Bitmap Font**  
 [http://renderhjs.net/shoebox/bitmapFont.htm](http://renderhjs.net/shoebox/bitmapFont.htm)  
 
 **TinyPNG – Compress PNG images while preserving transparency**  
 [https://tinypng.com/](https://tinypng.com/)  
+Weight loss images on the web.  
 
 **PIXI.TextStyle Editor - PixiJS**  
 [https://pixijs.io/pixi-text-style/](https://pixijs.io/pixi-text-style/)  
+Check the system font decoration on the web.  
